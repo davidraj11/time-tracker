@@ -4,6 +4,3 @@ Java (Maven) application for tracking time on the job
 Time tracker
 
 Good afternoon!!
-
-
-In this project using Maven
